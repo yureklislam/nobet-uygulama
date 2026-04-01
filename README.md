@@ -16,3 +16,18 @@ https://github.com/yureklislam/nobet-uygulama/releases/download/v0.0.2/Nobet.Ciz
 
 ## Sürüm
 v0.0.2 - İlk yayınlanan sürüm
+
+
+## Neden bu uygulama?
+
+Mevcut nöbet sistemlerinde adaletsiz dağılım ve karışıklık sorunları bulunur.
+
+Bu uygulama:
+- Nöbetleri eşit dağıtır
+- Kıdemi otomatik dikkate alır
+- İnsan hatasını azaltır
+- Zamandan tasarruf sağlar
+
+## Hedef
+
+Bu uygulama, jandarma ve benzeri disiplinli kurumlarda nöbet planlamasını kolaylaştırmak için geliştirilmiştir.
