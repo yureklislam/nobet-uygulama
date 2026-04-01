@@ -9,7 +9,8 @@ Basit ve pratik nöbet planlama uygulaması.
 - Subay / astsubay sistemi desteklenir
 
 ## Kurulum
-1. Releases bölümünden indir
+1. İndir:
+https://github.com/yureklislam/nobet-uygulama/releases/download/v0.0.2/Nobet.Cizelgesi.Setup.0.0.2.exe
 2. Setup dosyasını çalıştır
 3. Kur ve aç
 
