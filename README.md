@@ -13,8 +13,11 @@ Basit ve pratik nöbet planlama uygulaması.
 https://github.com/yureklislam/nobet-uygulama/releases/download/v0.0.2/Nobet.Cizelgesi.Setup.0.0.2.exe
 2. Setup dosyasını çalıştır
 3. Kur ve aç
-
+4. 
+🚀 Hemen indir:  
+https://github.com/yureklislam/nobet-uygulama/releases/download/v0.0.2/Nobet.Cizelgesi.Setup.0.0.2.exe
 ## Sürüm
+
 v0.0.2 - İlk yayınlanan sürüm
 
 
